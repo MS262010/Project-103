@@ -1,0 +1,21 @@
+body{
+    background-image: url("https://wallpaperaccess.com/full/632140.jpg");
+    background-size: cover;
+}
+h1,p{
+    font-family: 'Lobster', cursive;
+    color: rgb(23, 7, 114);
+}
+#name{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+    background-color: rgb(126, 62, 139);
+    width: 63%;
+    border-radius: 20px;
+    height: 30px;
+    color: white;
+    box-shadow: 0px 10px 20px rgb(157, 78, 194);
+}
+#camera{
+    border: black dashed;
+}
